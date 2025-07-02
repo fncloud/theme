@@ -1,9 +1,9 @@
 // config.js
 
 window.config = {
-  logo: 'https://yunpan.fncloud.top/PicGo/favicon',             // 网站 logo
+  logo: 'https://tencentcdna.production.link3.cc/user_create_images/link3_1750703159775/multiple_images/1751454754349',             // 网站 logo
   title: 'FnCloud',                                            // 网站标题
-  host: 'https://qq.fncloud.top/',                            // 后端接口地址（注意最后要带 “/”）
+  host: 'http://202.181.24.118/',                            // 后端接口地址（注意最后要带 “/”）
   
   storeHome: {
     title: '选择最适合你的订阅计划',
